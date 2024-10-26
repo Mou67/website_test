@@ -104,7 +104,7 @@ System Information:
     }
 
     function showWarning() {
-        warningElement.style.display = 'block';
+        warningElement.style.opacity = '1';
     }
 
     setTimeout(() => {

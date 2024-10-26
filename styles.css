@@ -41,6 +41,8 @@ body {
     color: #ff5252;
     font-family: 'Arial', sans-serif;
     box-shadow: 0 0 15px rgba(255, 82, 82, 0.2);
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
 }
 
 .warning h2 {
